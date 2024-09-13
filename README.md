@@ -9,7 +9,7 @@ Interesses e Formação
 
 Objetivos Futuros
 
-- Especialização: Almejo me tornar especialista em C++, machine learning e computação gráfica.
+- Almejo me tornar especialista em C++, machine learning e computação gráfica.
 - Planejo desenvolver projetos com o data cube do INPE para sensoriamento remoto, com foco em geoprocessamento, provavelmente utilizando Python.
 
 Contato
