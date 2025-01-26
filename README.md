@@ -3,9 +3,9 @@ Olá, meu nome é Matheus Maia.
 
 Interesses e Formação
 
-- Formação em andamento em Ciências da Computação: Em sequência, pretendo fazer uma pós em computação aplicada assim que eu achar uma área específica para pesquisa.
+- Formação completa em Analíse e desenvolvimento de sistemas e softwares(SENAI): Tenho interesses em Ciências da computação.
 - Atualmente, estou aprendendo C++ e explorando suas capacidades.
-- Tenho interesse em desenvolvimento web, gosto de Java e me interessei pelas funcionalidades do JavaScript recentemente. Também estou interessado em React.
+- Tenho interesse em desenvolvimento web.
 
 Objetivos Futuros
 
@@ -14,4 +14,4 @@ Objetivos Futuros
 
 Contato
 
-- Email: irmadalava@gmail.com
+- Email: matheusmaia535@gmail.com
